@@ -1,0 +1,50 @@
+.formularioCadastro_div{
+    width: 80%;
+    display: inline-block;
+    vertical-align: top;
+    background-color: rgb(242, 236, 236);
+    height: 1800px;   
+
+}
+
+hr{
+
+    border: 0;
+	border-top: 1px solid #a7a5a5;
+}
+.formularioCadastro_div_h3{
+    margin-left: 20px;
+}
+
+.formularioCadastro_section{
+    display: inline-block;  
+    width: 100%; 
+    background-color: rgb(250, 247, 247);
+    margin-top:20px;
+    border-radius: 15px;
+    }
+.formularioCadastro_div h2{
+
+    font-weight: bolder;
+    text-align: center;
+    font-size: 2rem;
+    color:gray
+}
+
+.formularioCadastro_div h3{
+
+    font-weight: bolder;
+    color:gray
+}
+
+.contatos{
+
+    margin-left: 20px;
+}
+.paragrafo{
+    display: inline-block;
+    width: 31.5%;
+    font-weight: bolder;
+    color:gray;
+    text-align: center;
+}
