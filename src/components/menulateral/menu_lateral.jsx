@@ -1,6 +1,6 @@
 
 import "./menulateral.css"
-import FormularioJob from "../formulario/formulario"
+
 import { Link } from 'react-router-dom'
 
 
